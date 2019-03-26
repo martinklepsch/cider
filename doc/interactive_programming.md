@@ -36,7 +36,7 @@ program through the CIDER REPL. Using the functions offered by
 `cider-mode` will improve your productivity and make you a more
 efficient Clojure programmer.
 
-## Using cider-mode
+## cider-mode Keybindings
 
 Here's a list of `cider-mode`'s keybindings:
 
